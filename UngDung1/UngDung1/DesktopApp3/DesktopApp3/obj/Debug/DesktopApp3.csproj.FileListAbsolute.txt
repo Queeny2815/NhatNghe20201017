@@ -1,0 +1,11 @@
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\bin\Debug\DesktopApp3.exe.config
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\bin\Debug\DesktopApp3.exe
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\bin\Debug\DesktopApp3.pdb
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\obj\Debug\DesktopApp3.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\obj\Debug\DesktopApp3.Form1.resources
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\obj\Debug\DesktopApp3.Properties.Resources.resources
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\obj\Debug\DesktopApp3.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\obj\Debug\DesktopApp3.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\obj\Debug\DesktopApp3.exe
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\obj\Debug\DesktopApp3.pdb
+C:\Users\NN\Desktop\UngDung1\DesktopApp3\DesktopApp3\obj\Debug\DesktopApp3.Form2.resources

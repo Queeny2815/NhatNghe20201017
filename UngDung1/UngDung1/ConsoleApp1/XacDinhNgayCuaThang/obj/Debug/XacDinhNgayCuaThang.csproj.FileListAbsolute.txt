@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\XacDinhNgayCuaThang\obj\Debug\XacDinhNgayCuaThang.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\XacDinhNgayCuaThang\obj\Debug\XacDinhNgayCuaThang.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\XacDinhNgayCuaThang\bin\Debug\XacDinhNgayCuaThang.exe.config
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\XacDinhNgayCuaThang\bin\Debug\XacDinhNgayCuaThang.exe
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\XacDinhNgayCuaThang\bin\Debug\XacDinhNgayCuaThang.pdb
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\XacDinhNgayCuaThang\obj\Debug\XacDinhNgayCuaThang.exe
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\XacDinhNgayCuaThang\obj\Debug\XacDinhNgayCuaThang.pdb

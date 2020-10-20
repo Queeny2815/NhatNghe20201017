@@ -1,0 +1,2 @@
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PTB1\obj\Debug\PTB1.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PTB1\obj\Debug\PTB1.csprojAssemblyReference.cache

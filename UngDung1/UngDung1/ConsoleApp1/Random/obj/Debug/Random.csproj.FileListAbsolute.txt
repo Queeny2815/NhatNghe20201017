@@ -1,0 +1,2 @@
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\Random\obj\Debug\Random.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\Random\obj\Debug\Random.csprojAssemblyReference.cache

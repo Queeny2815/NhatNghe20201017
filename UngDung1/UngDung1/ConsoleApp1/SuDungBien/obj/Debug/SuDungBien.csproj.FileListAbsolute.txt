@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\SuDungBien\bin\Debug\SuDungBien.exe.config
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\SuDungBien\bin\Debug\SuDungBien.exe
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\SuDungBien\bin\Debug\SuDungBien.pdb
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\SuDungBien\obj\Debug\SuDungBien.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\SuDungBien\obj\Debug\SuDungBien.exe
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\SuDungBien\obj\Debug\SuDungBien.pdb
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\SuDungBien\obj\Debug\SuDungBien.csprojAssemblyReference.cache

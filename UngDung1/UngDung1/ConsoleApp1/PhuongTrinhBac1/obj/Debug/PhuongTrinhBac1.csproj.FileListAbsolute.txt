@@ -1,0 +1,4 @@
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.Properties.Resources.resources
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.csproj.CoreCompileInputs.cache

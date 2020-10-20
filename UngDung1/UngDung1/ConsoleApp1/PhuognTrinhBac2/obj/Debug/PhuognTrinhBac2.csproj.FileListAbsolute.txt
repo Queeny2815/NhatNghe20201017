@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuognTrinhBac2\obj\Debug\PhuognTrinhBac2.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuognTrinhBac2\obj\Debug\PhuognTrinhBac2.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuognTrinhBac2\bin\Debug\PhuognTrinhBac2.exe.config
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuognTrinhBac2\bin\Debug\PhuognTrinhBac2.exe
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuognTrinhBac2\bin\Debug\PhuognTrinhBac2.pdb
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuognTrinhBac2\obj\Debug\PhuognTrinhBac2.exe
+C:\Users\NN\Desktop\UngDung1\ConsoleApp1\PhuognTrinhBac2\obj\Debug\PhuognTrinhBac2.pdb
